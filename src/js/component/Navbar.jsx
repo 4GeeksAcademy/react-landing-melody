@@ -1,7 +1,7 @@
 import React from "react";
 
 //create your first component
-const navbar = () => {
+const Navbar = () => {
 	return (
 		<nav className="navbar navbar-dark bg-dark navbar-expand-lg">
             <div className="container-fluid">
@@ -22,4 +22,4 @@ const navbar = () => {
 	);
 };
 
-export default navbar;
+export default Navbar;

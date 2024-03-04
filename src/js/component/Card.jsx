@@ -1,7 +1,7 @@
 import React from "react";
 
 //create your first component
-const card = () => {
+const Card = () => {
 	return (
 		<container>
             <div className="card" style="width: 18rem;">
@@ -17,4 +17,4 @@ const card = () => {
         );
 };
 
-export default card;
+export default Card;

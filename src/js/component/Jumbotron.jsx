@@ -1,7 +1,7 @@
 import React from "react";
 
 //create your first component
-const jumbotron = () => {
+const Jumbotron = () => {
 	return (
         <Container>
         <div >
@@ -13,4 +13,4 @@ const jumbotron = () => {
 	);
 };
 
-export default jumbotron;
+export default Jumbotron;
