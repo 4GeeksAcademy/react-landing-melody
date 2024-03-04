@@ -3,7 +3,6 @@ import React from "react";
 //create your first component
 const Card = () => {
 	return (
-		<container>
             <div className="card" style="width: 18rem;">
                 <img src="..." className="card-img-top" alt="..." />
             <div className="card-body">
@@ -12,8 +11,6 @@ const Card = () => {
                     <a href="#" className="btn btn-primary">Go somewhere</a>
             </div>
             </div>
-
-        </container> 
         );
 };
 
