@@ -1,7 +1,7 @@
 import React from "react";
-import Navbar from "./Navbar.jsx";
-import Jumbotron from "./Jumbotron.jsx";
-import Card from "./Card.jsx";
+import Navbar from "./Navbar";
+import Jumbotron from "./Jumbotron";
+import Card from "./Card";
 
 //include images into your bundle
 import rigoImage from "../../img/rigo-baby.jpg";
